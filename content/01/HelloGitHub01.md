@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 01 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -44,12 +44,12 @@
 3、[VeryNginx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alexazhou/VeryNginx)：一个功能强大而对人类友好的 Nginx 扩展程序。[VeryNginx 文档](https://github.com/alexazhou/VeryNginx/blob/master/readme_zh.md)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/VeryNginx-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/VeryNginx-min.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[activate-power-mode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/disjukr/activate-power-mode)：爆炸输入效果，[在线演示](http://0xabcdef.com/activate-power-mode/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/activate-power-mode.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/activate-power-mode.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -61,12 +61,12 @@
 7、[tushare](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/waditu/tushare)：TuShare 是一个免费、开源的 Python 财经数据接口包，[TuShare 文档](http://tushare.org/index.html)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/TuShare-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/TuShare-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[beijing_bus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wong2/beijing_bus)：北京实时公交，可以显示查询的公交到达某站还需多久
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/%E5%8C%97%E4%BA%AC%E5%AE%9E%E6%97%B6%E5%85%AC%E4%BA%A4.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/beijing_bus.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -74,7 +74,7 @@
 9、[archey-osx](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/obihann/archey-osx)：命令行中显示 Mac OS X 计算机的基本信息
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/Archey%20for%20OS%20X-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/archey-osx.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[Learning-SICP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/DeathKing/Learning-SICP)：《计算机程序的构造和解释》公开课
 

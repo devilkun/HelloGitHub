@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 42 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -72,7 +72,7 @@ for(int i = 0; i < arrlist_size(result); i++) {
 }
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/linq4c.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/linq4c.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -84,25 +84,25 @@ for(int i = 0; i < arrlist_size(result); i++) {
 - 数据强一致
 - 类 SQL 查询语言
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/nebula.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/nebula.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### CSS 项目
 3、[iCSS](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chokcoco/iCSS)：该项目围绕 CSS 话题，讲述了 CSS 相关的技巧、动画实现
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/iCSS.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/iCSS.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 4、[kubesphere](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kubesphere/kubesphere)：一款在主流容器调度平台 Kubernetes 之上构建的企业级分布式多租户容器管理平台。提供简单易用的操作界面以及向导式操作方式，在降低用户使用容器调度平台学习成本的同时，极大降低开发、测试、运维的日常工作的复杂度。[中文文档](https://kubesphere.io/docs/zh-CN/)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/kubesphere.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/kubesphere.png' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[starcharts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/caarlos0/starcharts)：生成 GitHub 星图的项目
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/starcharts.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/starcharts.png' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[ultimate-go](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hoanhan101/ultimate-go)：该项目是作者在学习 Go 过程中，对 Go 源码以及涉及到的相关的计算机基础知识的心得与总结。适合 Go 学习者阅读与学习。快来和作者一起深入了解 Go 源码，了解背后的计算机理论和 Go 的设计思想
 
@@ -127,7 +127,7 @@ public void simpleRead() {
 
 8、[lila](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ornicar/lila)：一款基于 Scala 语言，完全免费、开源、没有广告、支持多语言的在线国际象棋游戏。[在线试玩](https://lichess.org/)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/lila.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/lila.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[tablesaw](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jtablesaw/tablesaw)：一款包括数据框和可视化库，可用于加载、转换、过滤和汇总数据的 Java 实用程序。用 Tablesaw 处理数据会节省您的时间和精力，它还支持描述性统计，并且能够与 Smile 机器学习库完美集成。最近两年数据分析师职业大火，做好数据分析，就离不开数据可视化框架。Java 工程师掌握一种数据可视化库势在必行，示例代码：
 ```java
@@ -145,7 +145,7 @@ public class BoxExample {
 }
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/tablesaw.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/tablesaw.png' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[simple-java-mail](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bbottema/simple-java-mail)：一个轻量级 Java 邮件框架，支持复杂、自定义的发送电子邮件业务。包括经过身份验证的代理、附件、嵌入式图像、自定义标头和属性、强大的地址验证等，亮点是支持身份代理等功能，防止其他其他邮件服务拦截邮件
 
@@ -157,18 +157,18 @@ XUpdate.newBuild(getActivity())
 .update();
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/XUpdate.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/XUpdate.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 12、[star-battle](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gd4Ark/star-battle)：一个使用 JavaScript ES6、Canvas 开发的飞船射击类游戏。[在线试玩](https://4ark.me/star-battle/)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/star-battle.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/star-battle.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[markdown-nice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhning12/markdown-nice)：能够自定义样式的 Markdown 编辑器。支持内容和自定义样式浏览器中实时保存、上传图片、脚注、公式等，输出的内容可一件复制到微信公众号、知乎、掘金、博客园和 CSDN 等一系列平台。极大的减轻了微信公众号文章的排版和编辑工作
+13、[markdown-nice](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mdnice/markdown-nice)：能够自定义样式的 Markdown 编辑器。支持内容和自定义样式浏览器中实时保存、上传图片、脚注、公式等，输出的内容可一件复制到微信公众号、知乎、掘金、博客园和 CSDN 等一系列平台。极大的减轻了微信公众号文章的排版和编辑工作
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/markdown-nice.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/markdown-nice.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[marktext](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marktext/marktext)：一个简单且优雅的开源 Markdown 编辑器，支持 Linux、macOS 和 Windows [下载地址](https://github.com/marktext/marktext#download-and-install)。功能：
 - 实时预览（所见即所得）和简洁明了的界面
@@ -177,11 +177,11 @@ XUpdate.newBuild(getActivity())
 - 各种编辑模式：源代码模式、打字机模式、专注模式
 - 等等
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/marktext.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/marktext.png' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[leonsans](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cmiscm/leonsans)：这是一个用 JS 编写的 Sans Serif 半衬线字体。Leon Sans 允许动态更改字体粗细并在 HTML 5 的 Canvas 元素中创建自定义动画、效果或形状，[点击](https://leon-kim.com/)查看动画效果。PS：这个字体是作者来庆祝他刚出生的婴儿 Leon 的哦
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/leonsans.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/leonsans.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[taro-music](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lsqy/taro-music)：基于 Taro 与网易云音乐 API 开发的网易云音乐小程序。技术栈为 typescript+taro+taro-ui+redux 目前主要是着重小程序端的展示，可以通过项目学习上述几个技术栈的使用和实战，从而能够快速使用 Taro 开发一个属于你自己的小程序，目前已实现的主要功能点如下：
 - 用户登陆
@@ -190,7 +190,7 @@ XUpdate.newBuild(getActivity())
 - 歌曲播放页面
 - 等等
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/taro-music.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/taro-music.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -202,15 +202,15 @@ XUpdate.newBuild(getActivity())
 ### Python 项目
 18、[healthchecks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/healthchecks/healthchecks)：基于 Python3 和 Django2 的 Cron 定时任务监控工具，同时支持多种定时任务失败时的告警方式
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/healthchecks.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/healthchecks.png' style="max-width:80%; max-height=80%;"></img></p>
 
 19、[GeneralNewsExtractor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kingname/GeneralNewsExtractor)：基于《基于文本及符号密度的网页正文提取方法》论文用 Python 实现的正文抽取器，可以用来提取 HTML 中正文的内容、作者、标题。之前我看到这篇论文也想实现该抽取工具，但是我因为懒癌晚期躺下了，感谢[kingname](https://github.com/kingname) ‘带趟’ ✌️
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/GeneralNewsExtractor.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/GeneralNewsExtractor.png' style="max-width:80%; max-height=80%;"></img></p>
 
 20、[bokeh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bokeh/bokeh)：一个交互式的数据可视化 Python 库，专注于在 Web 浏览器中实现美观、直接的数据可视化功能。使用它可以让你快速和轻松地创建交互式图表、仪表板和数据可视化程序。流式数据集的可视化效果如下图：
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/bokeh.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/bokeh.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -228,7 +228,7 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 ### Swift 项目
 22、[EFQRCode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EFPrefix/EFQRCode)：一个轻量级的、用来生成和识别二维码的纯 Swift 库，可根据输入的水印图和图标产生艺术二维码
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/EFQRCode.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/EFQRCode.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -237,15 +237,15 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 
 24、[pull](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wei/pull)：一个 GitHub App，它可以让 fork 的仓库自动同步，保持和原仓库同步的神器。很多同学参与开源时会 fork 项目，但无法取得原项目的最新更新。此 Github App 可以很好的解决这个问题，截至目前已有几万仓库使用，截至目前已经自动生成了 70 万个 PR，该数字还在持续增加。注意：如果 master 有更改需要备份后使用，具体见[英文文档](https://github.com/wei/pull#readme)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/pull.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/pull.png' style="max-width:80%; max-height=80%;"></img></p>
 
 25、[chinese-colors](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zerosoul/chinese-colors)：中国传统颜色在线手册，[在线体验](https://colors.ichuantong.cn/)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/chinese-colors.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/chinese-colors.png' style="max-width:80%; max-height=80%;"></img></p>
 
 26、[navi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/denisidoro/navi)：命令行辅助工具，有了它再也不用担心找不到历史输入过的命令、忘记命令等诸多烦恼
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/navi.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/navi.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -254,7 +254,7 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 
 28、[nodebestpractices](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/goldbergyoni/nodebestpractices)：《Node.js 最佳实践》[中文](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/nodebestpractices.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/nodebestpractices.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 29、[Nodejs-Roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Q-Angelo/Nodejs-Roadmap)：Node.js 技术栈学习指南。内容侧重于 Node.js 服务端，包含：Node.js 基础知识、Node.js 核心模块、主流框架实践、缓存、数据库、消息中间件、DevOps、HTTP 协议以及 Node.js 在微服务等，[在线阅读](https://www.nodejs.red/)
 
@@ -267,7 +267,7 @@ return ["nán", "jīng", "shì", "cháng", "jiāng", "dà", "qiáo"]
 
 32、[albert_zh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/brightmart/albert_zh)：海量中文预训练 ALBERT 模型
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/42/img/albert_zh.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/42/img/albert_zh.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 33、[cherry](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Windsooon/cherry)：简单易用的文本分类器。适用多种语言，自带两个预训练模型，使用预训练模型进行分类只需一行代码。使用自己的数据集进行定制训练也只需要十行代码。轻松达到高精确率，召回率。同时该库支持自定义分词算法、分类算法等。示例代码：
 ```bash
@@ -284,7 +284,7 @@ array([[4.43336608e-03, 9.95215198e-01, 3.51419231e-04, 1.68657851e-08]])
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/41/HelloGitHub41.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/41/HelloGitHub41.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/673'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/43/HelloGitHub43.md">『下一期』</a>
 </p>
 
 ---

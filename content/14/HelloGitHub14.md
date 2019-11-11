@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 14 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -53,7 +53,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 
 3、[bfs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/baidu/bfs)：百度文件系统，架构图如下：
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/bfs-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/bfs-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -65,7 +65,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 6、[fsql](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kshvmdn/fsql)：用 SQL 的语法搜索文件，酷吧
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/fsql.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/fsql.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -82,12 +82,12 @@ gcc -g -O2 testSearcher.c ip2region.c
 10、[BrowserQuest](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mozilla/BrowserQuest)：Mozilla 开源的多人在线角色扮演游戏项目
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/browserquest-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/browserquest-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[Rental](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/answershuto/Rental)：一款租房 APP，基于 Node.js 爬虫，爬取 58 同城租房信息，并用地图进行可视化展示，方便用户获取周围租房信息
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/rental-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/rental-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[deep-into-node](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yjhjstz/deep-into-node)：深入理解 Node.js 的核心思想与源码分析
 
@@ -97,7 +97,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 13、[iTerm2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gnachman/iTerm2)：Mac 上超好用的终端软件
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/iterm2-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/iterm2-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -105,7 +105,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 14、[nextcloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nextcloud/server)：开源云存储平台，功能齐全，可以用于搭建公司内部的云存储平台
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/nextcloud-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -113,17 +113,17 @@ gcc -g -O2 testSearcher.c ip2region.c
 15、[explainshell](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/idank/explainshell)：一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释，例如：`ps -aux|grep python`，[在线演示](https://www.explainshell.com/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/explainshell-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/explainshell-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[certbot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/certbot/certbot)：免费的自动启用和部署 HTTPS 的工具，让你的网站开启 HTTPS 变得简单快捷。在部署教程页面选择服务器的操作系统和 Web 服务器，之后根据给出的步骤一步步的执行命令就行了，[部署教程](https://certbot.eff.org/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/cerbot-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/cerbot-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 17、[pdir2](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/laike9m/pdir2)：Python 程序员需要一个更好的 `dir()` —— 以更加友好的显示 `dir()` 输出的结果
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/pdir2.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/pdir2.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -133,7 +133,7 @@ gcc -g -O2 testSearcher.c ip2region.c
 - 使用神经网络识别图形，返回 emoji 表情
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/14/img/emoji-intelligence.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/14/img/emoji-intelligence.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

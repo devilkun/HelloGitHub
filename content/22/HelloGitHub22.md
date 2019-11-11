@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 22 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -37,14 +37,14 @@
 ### C++ 项目
 1、[albert](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/albertlauncher/albert)：Linux 平台下类似于 Mac Alfred 效率神器。支持开机自启动、自定义快捷键等功能
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/albert-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/22/img/albert-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 2、[rainbond](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/goodrain/rainbond)：[好雨](http://www.rainbond.com/)开源的生产级无服务器 PaaS。用于为云原生应用的整个交付流程提供生产级支持，包括基础设施管理、容器化改造、微服务架构转型、DevOps 工作流落地、混合云多云管理等
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/rainbond-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/22/img/rainbond-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -53,7 +53,7 @@
 
 4、[GSYVideoPlayer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CarGuo/GSYVideoPlayer)：Android 视频播放器。支持弹幕、滤镜、水印、截图、边播边缓存、重力旋转与手动旋转的同步等多种功能
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/GSYVideoPlayer.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/22/img/GSYVideoPlayer.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[FloatWindow](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yhaolpz/FloatWindow)：Andorid 任意界面悬浮窗组件，功能丰富，使用简单。特性如下：
 - 支持拖动、自动贴边等动画
@@ -61,7 +61,7 @@
 - 应用退到后台时，悬浮窗会自动隐藏
 - 等等
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/FloatWindow.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/22/img/FloatWindow.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[anychat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dianbaer/anychat)：纯净的 WebSocket 聊天插件。服务器绝对控制权的推送机制，合理的线程设计，[在线 Demo](https://www.threecss.com/AnyChatClient/third-embed-demo.html)。功能如下：
 - 对接任何身份系统
@@ -71,14 +71,14 @@
 - 支持嵌入式，通过 iframe 即可进行嵌入
 - 等等
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/anychat-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/22/img/anychat-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
 7、[webpack-component-loader](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nicholaslee119/webpack-component-loader)：在不借助框架的情况下，实现 Web component 的标准。该项目对于理解组件化的概念很有帮助
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/webpack-component-loader-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/22/img/webpack-component-loader-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 8、[handsontable](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/handsontable/handsontable)：强大的开源 HTML5 表格处理工具，适用于中后台的很多业务场景。API 方便、扩展性好、可操作性强，与Execl 等表格处理程序兼容好。并支持非常丰富的操作，如数据绑定、验证、排序及强大的上下文菜单。示例代码如下：
 ```js
@@ -147,7 +147,7 @@ for i in tqdm(range(10000)):
 # 76%|████████████████████████████         | 7568/10000 [00:33<00:10, 229.00it/s]
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/22/img/tqdm.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/22/img/tqdm.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

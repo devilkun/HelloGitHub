@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 26 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -43,14 +43,14 @@
 ### C 项目
 1、[ttygif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/icholy/ttygif)：录制终端.gif
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/ttygif.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/ttygif.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
 2、[TrafficMonitor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhongyang219/TrafficMonitor)：一款用于 Windows 平台的网速监控悬浮窗软件。可以显示当前网速、CPU及内存利用率、任务栏显示、更换皮肤、历史流量统计等功能
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/TrafficMonitor-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/TrafficMonitor-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -60,7 +60,7 @@
 - 使用高效 丨 资源轻量、灵活、多设备兼容
 - 开源免费 丨 个人私用和商用版权开源免费
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/caomei-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/caomei-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[You-need-to-know-css](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/l-hammer/You-need-to-know-css)：该项目包含了一些常用的 CSS 样式示例和作者阅读《CSS揭秘》的收获分享，适合于想要提高 CSS 技能的同学
 
@@ -69,7 +69,7 @@
 ### Go 项目
 5、[lgo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yunabe/lgo)：实现像 python 一样的交互式编程，同时整合了 Jupyter Notebook。效果如下：
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/lgo.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/lgo.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[gopool](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aosen/gopool)：Golang 分布式的连接池，协程池。内含 Redis Client 连接池实现，特点如下：
 - 提供下游的高可用访问，投票机制摘除下游不健康节点
@@ -133,11 +133,11 @@ dayjs().startOf('month').add(1, 'day').set('year', 2018).format('YYYY-MM-DD HH:m
 
 12、[tui.calendar](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nhnent/tui.calendar)：功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的。此项目适用于多种场景，炫酷的交互和 UI
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/tui_calendar.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/tui_calendar.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[carbon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dawnlabs/carbon)：以美观、整洁的方式，展示你的代码片段。同时提供 SVG、PNG 多种方式展示
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/carbon-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/carbon-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[BizCharts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alibaba/BizCharts)：蚂蚁出品的基于 React 的图表库。图表样式丰富、使用方便、易扩展、文档齐全，[官网](https://antv.alipay.com/zh-cn/g2/3.x/index.html)
 
@@ -227,7 +227,7 @@ pprint(result, indent=2)
 ### Rust 项目
 17、[fd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sharkdp/fd)：一个简单、快速、友好的替代 find 命令的方案
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/fd.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/fd.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 18、[rayon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rayon-rs/rayon)：一个易用、无数据竞争的将顺序迭代器妆化成并行迭代器。简单说就是原本你的数组只能一个一个地遍历，使用这个库可以并发同时从几个 index 开始遍历，同时也能遍历 map 等类似的数据结构
 
@@ -254,7 +254,7 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 }
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/CocoaDebug.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/CocoaDebug.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -279,7 +279,7 @@ public func print<T>(file: String = #file, function: String = #function, line: I
 ### 机器学习
 26、[AlphaZero_Gomoku](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/junxiaosong/AlphaZero_Gomoku)：使用 TensorFlow/Pytorch/Theano 实现 AlphaZero 算法，通过自我对弈从零训练五子棋 AI。实现简单、清晰，适合学习、了解 AlphaGo Zero 背后的关键思想和技术细节
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/26/img/AlphaZero_Gomoku.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/26/img/AlphaZero_Gomoku.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

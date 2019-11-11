@@ -1,12 +1,12 @@
 ﻿<p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/readme.gif"/>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/readme.gif"/>
   <br><a href="README.md">中文</a> | English 
   <br><strong>HelloGitHub</strong> is sharing interesting, entry-level open source projects on GitHub.
   <br>Interest is the best teacher, you will find the interests of programming here!
 </p>
 
 <p align="center">
-  <a href="https://hellogithub.com/weixin.png"><img src="https://img.shields.io/badge/Talk-WeChat-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
+  <a href="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png"><img src="https://img.shields.io/badge/Talk-WeChat-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/stargazers"><img src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/521xueweihan/HelloGitHub/issues"><img src="https://img.shields.io/github/issues/521xueweihan/HelloGitHub.svg?style=popout-square" alt="GitHub issues"></a>
 </p>

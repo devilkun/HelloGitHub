@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 04 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -36,7 +36,7 @@
 1、[cachecloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sohutv/cachecloud)：搜狐视频开源的 CacheCloud 项目，提供了一个 Redis 云管理平台，功能强大，教程详细（有视频教程），文档齐全，**企业级开源项目**
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/cachecloud-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/04/img/cachecloud-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -44,12 +44,12 @@
 2、[zingtouch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zingchart/zingtouch)：支持移动端各种触摸动作包含：转动、挥动、滑动等动作的库，[官方网站](https://zingchart.github.io/zingtouch/)，展示图如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zingtouch-show.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/04/img/zingtouch-show.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[zhihudaily-vue](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yatessss/zhihudaily-vue)：用 Vue.js 写的知乎日报手机 Web 版，[展示](http://zhihudaily-vue.yatessss.com/)，需打开 chrome 浏览器的手机模拟功能，来获得比较好的浏览效果。访问展示图如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/zhihu-vue-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/04/img/zhihu-vue-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -59,7 +59,7 @@
 5、[flask-admin](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/flask-admin/flask-admin)：我工作中需要写一个微型的管理系统，用的就是这个框架。简直快餐型，页面都写好了，只要设置好相关配置就可以跑起来了。唯一缺点就是文档中的例子少，开发一些特定的需求需要自己看源码，才能知道如何改。[文档](https://flask-admin.readthedocs.io/en/latest/)，下面是我跑起来之后的样子：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/04/img/flask-admin-show.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/04/img/flask-admin-show.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[python-sdk](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/qiniu/python-sdk)：七牛云存储 SDK。我自己在用他家的服务，上手简单、有免费额度，可以用来做‘图床’，同时，有了这个 SDK 可以写一些好用的小工具。**注意**：图床不能随便用，我曾经就用超了，账户的钱能扣成**负数**！
 

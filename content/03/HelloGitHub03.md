@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 03 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -46,7 +46,7 @@
 3、[pholcus](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/henrylee2cn/pholcus)：Pholcus 是 Go 写的重量级爬虫，纯 Go 语言编写的高并发、分布式、重量级爬虫软件，支持单机、服务端、客户端三种运行模式，拥有 Web、GUI、命令行三种操作界面，功能齐全、强大。[使用手册](https://pholcus.gitbooks.io/docs/content/)，使用展示如图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/03/img/Pholcus-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/03/img/Pholcus-min.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -59,12 +59,12 @@
 5、[OS.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/os-js/OS.js)：JavaScript 写的基于浏览器上的桌面操作系统。[在线演示](https://demo.os-js.org/)，使用展示如图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/03/img/os-js-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/03/img/os-js-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[editor.md](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pandao/editor.md)：是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。[在线尝试](http://lab.lepture.com/editor/)，使用展示如图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/03/img/editor.md-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/03/img/editor.md-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -72,7 +72,7 @@
 7、[walle-web](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/meolu/walle-web)：Walle（瓦力） 一个 Web 部署系统工具，可能也是个持续发布工具，配置简单、功能完善、界面流畅、开箱即用！支持 git、svn 版本管理，支持各种 Web 代码发布，静态的 HTML，动态 PHP，需要编译的 Java 等。[中文介绍](https://github.com/meolu/walle-web/blob/master/docs/README-zh.md)，使用展示如图：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/03/img/wali-show.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/03/img/wali-show.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

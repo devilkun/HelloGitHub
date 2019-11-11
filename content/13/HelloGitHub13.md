@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 13 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -47,7 +47,7 @@
 2、[Dopamine](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/digimezzo/Dopamine)：基于WPF编写的现代扁平风格轻量级播放器
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/Dopamine-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -60,7 +60,7 @@
 4、[dnt](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/shiyanhui/dht)：DHT 实现了 BitTorrent DHT 协议，它包含两种模式，标准模式和爬虫模式。标准模式遵循 DHT 协议，你可以把它当做一个标准的 DHT 组件。爬虫模式是为了嗅探到更多 torrent 文件信息，它在某些方面不遵循 DHT 协议。 基于爬虫模式，你可以打造你自己的 BTDigg，[演示地址](http://bthub.io/)
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/dnt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/dnt-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 5、[gobyexample](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mmcgrana/gobyexample)：Go 示例代码，[在线浏览](https://gobyexample.com/)
 
@@ -70,7 +70,7 @@
 6、[Grav](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/glomadrian/Grav)：Android 粒子动画效果，非常炫酷。让 APP 逼格更上一层楼
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/Grav.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/Grav.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[AndroidLibs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/XXApple/AndroidLibs)：Android 开源代码大全，收集 Android 开发中优秀的开源组件库，方便大家查询
 
@@ -86,17 +86,17 @@
 11、[gifify](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vvo/gifify)：可以选择视频文件的某一时间间隔做成 gif 动图
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/gifify.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/gifify.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[cmder](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cmderdev/cmder)：Windows 控制台模拟器，运行效果如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/cmder-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/cmder-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 13、[Vue2.0LOL](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/arronf2e/Vue2.0LOL)：Vue2.0 版英雄联盟助手
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/vue2.0lol-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/vue2.0lol-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[typescript-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xcatliu/typescript-tutorial)：TypeScript 入门教程
 
@@ -106,7 +106,7 @@
 15、[PYSearch](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/iphone5solo/PYSearch)：一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 App）风格的搜索控制器
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PYSearch-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/PYSearch-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 16、[PPRows](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jkpang/PPRows)：在 Mac 上计算你写了多少行代码的工具
 
@@ -118,7 +118,7 @@
 6. 支持忽略代码中的空行，代码行数计算更精确；
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/PPRows.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/PPRows.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -187,7 +187,7 @@ Request failed
 22、[SwitchHosts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/oldj/SwitchHosts)：一个用于快速切换 hosts 文件的小程序，基于 Electron 开发
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SwitchHosts-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/SwitchHosts-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 23、[alloyteam](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AlloyTeam/alloyteam.github.com)：腾讯 AlloyTeam 开源项目官网
 
@@ -199,7 +199,7 @@ Request failed
 
 27、[SuperTinyIcons](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/edent/SuperTinyIcons)：体积超级小、制作精致的常见网站和 app 的图标库，每个图标均小于 1KB
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/13/img/SuperTinyIcons.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/13/img/SuperTinyIcons.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

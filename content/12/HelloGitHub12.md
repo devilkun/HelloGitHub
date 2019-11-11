@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 12 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -47,7 +47,7 @@
 2、[ScreenToGif](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NickeManarin/ScreenToGif)：此工具可以记录屏幕的选定区域、网络摄像头的实时图像和绘图板上的实时图像。可以编辑并将动画保存为 GIF 或视频
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/screen-to-gif-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/12/img/screen-to-gif-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -75,12 +75,12 @@
 | F9 | 跳转到响应体 |
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/wuzz.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/12/img/wuzz.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[sshtron](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zachlatta/sshtron)：sshtron 是通过 SSH 运行的多人贪吃蛇游戏，命令行输入：`ssh sshtron.zachlatta.com`，无需安装等待几秒即可进行游戏（因为服务器在国外，很卡😅）
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/sshtron.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/12/img/sshtron.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -98,7 +98,7 @@
 6、[vue2-elm](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/bailicangdu/vue2-elm)：基于 vue2 + vuex 构建一个大型单页面应用，此项目大大小小共 45 个页面，涉及注册、登录、商品展示、购物车、下单等等，是一个完整的流程，
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/vue2-elm-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/12/img/vue2-elm-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[standard](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/feross/standard)：统一 JavaScript，只需一种样式，[中文](https://github.com/feross/standard/blob/master/docs/README-zhtw.md)
 
@@ -107,7 +107,7 @@
 9、[octotree](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/buunguyen/octotree)：为 GitHub 和 GitLab 网站，提供直观地显示项目目录结构的浏览器插件，效果如下：
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/octotree-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/12/img/octotree-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -119,7 +119,7 @@
 3. 选择 `Refresh all`，刷新使之生效
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/bitbar-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/12/img/bitbar-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -127,7 +127,7 @@
 11、[mycli](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbcli/mycli)：mycli 是一个带语法高亮、自动补全的 MySQL 命令行客户端工具。例如，连接数据库方法：`mycli -h localhost -u 用户名 数据库`
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/12/img/mycli.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/12/img/mycli.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[python-fire](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/python-fire)：Fire 是 Google 开源的 Python 库，可自动将您的代码转变成 CLI，无需您做任何额外工作。您不必定义参数，设置帮助信息，或者编写定义代码运行方式的 main 函数。相反，您只需从 main 模块调用“Fire”函数，其余工作全部交由 Python Fire 来完成。示例代码如下：
 ```python
@@ -167,7 +167,7 @@ Hello Google!
 ### 开源书籍
 17、[explore-python](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ethan-funny/explore-python)：《Python 之旅》，该书总结了 Python 相关的知识点，力求深入浅出、条理清晰
 
-18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)：《编程之法：面试和算法心得》
+18、[The-Art-Of-Programming-By-July](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/julycoding/The-Art-Of-Programming-By-July)：《编程之法：面试和算法心得》
 
 19、[react-naive-book](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/huzidaha/react-naive-book)：开源、免费、专业、简单的 React.js 教程
 

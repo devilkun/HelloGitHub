@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 18 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -55,7 +55,7 @@
 - 跨数据中心数据强一致性保证
 - 故障自恢复的高可用
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/tidb-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/tidb-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 4、[echo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/labstack/echo)：Go 语言最受欢迎的 Web 框架之一，具有：高性能、便于扩展、轻量的特点，示例代码：
 ```go
@@ -74,14 +74,14 @@ func callback(ctx echo.Context) error {
 }
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/echo-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/echo-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Java 项目
 5、[AndroidTVLauncher](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JackyAndroid/AndroidTVLauncher)：一个 TV Leanback 风格桌面，基于 Leanback 库开发，符合 Android TV 官方交互规范
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/AndroidTVLauncher-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/AndroidTVLauncher-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[spring-data-jpa-datatables](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/darrachequesne/spring-data-jpa-datatables)：spring-data-jpa 和 jQuery [datatables](https://www.datatables.net/) 集成工具。极大简化基于 datatables 数据表格的开发，示例代码：
 ```
@@ -105,7 +105,7 @@ public DataTablesOutput<User> getUsers(@Valid @RequestBody DataTablesInput input
 }
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/spring-data-jpa-datatables-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/spring-data-jpa-datatables-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[xxl-job](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/xuxueli/xxl-job)：轻量级分布式任务调度框架，其核心设计目标是：开发迅速、学习简单、轻量级、易扩展，文档齐全。[官网](http://www.xuxueli.com/xxl-job/)
 
@@ -123,7 +123,7 @@ flatpickr(".myClass", {});
 $(".selector").flatpickr(optional_config);
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/flatpickr-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/flatpickr-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 9、[vue-3d-model](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hujiulong/vue-3d-model)：展示三维模型的 Vue 组件，支持模型操作和模型点击事件，能自动缩放模型到合适大小并校正偏移，目前支持 obj、stl、dae 和 json 格式的模型，示例代码：
 ```vue
@@ -139,11 +139,11 @@ $(".selector").flatpickr(optional_config);
 </script>
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/vue-3d-model.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/vue-3d-model.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 10、[weweChat](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/trazyn/weweChat)：微信的第三方客户端。在完整实现 Web 微信功能的基础上，新增并优化部分功能，重设计整体 UI，提供更好的体验。Mac 安装命令：`brew cask install wewechat`
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/weweChat-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/weweChat-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[puppeteer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/GoogleChrome/puppeteer)：Google Chrome 团队开源的面向 Node.js 的，基于 DevTools 协议的远程 Headless Chrome 控制库，它可以生成网页截图、PDF、抓取单页应用与网页内容、进行自动化表单提交、界面测试与模拟键盘输入等功能。示例代码如下：
 ```javascript
@@ -179,14 +179,14 @@ $('#selectpage').selectPage({
 });
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/SelectPage-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/SelectPage-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 13、[wooyun_public](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hanc00l/wooyun_public)：乌云公开漏洞、知识库爬虫和搜索
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/18/img/wooyun-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/18/img/wooyun-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 09 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -42,7 +42,7 @@
 1、[json](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nlohmann/json)：C++ 的 JSON 库
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/json-show.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/09/img/json-show.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -64,7 +64,7 @@
 6、[vue-hackernews-2.0](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vuejs/vue-hackernews-2.0)：这是一个 Vue2.0 示例，克隆 [Hacker News](https://news.ycombinator.com/) 网站（我感觉比原站好看多了😅）
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/vue-hackernews-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/09/img/vue-hackernews-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 7、[N-blog](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nswbmw/N-blog)：面向新手的 Node.js 教程，该教程讲述了 Node.js 基本知识点，同时结合搭建一个多人博客的实战，从零基础到实际开发，由浅到深帮助新手入门 Node.js 这门语言
 
@@ -118,12 +118,12 @@ ngrok http 8000
 ```
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/ngrok-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/09/img/ngrok-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 12、[glances](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nicolargo/glances)：一个可以让你**一目了然**你的系统情况（类 (h)top）的工具，它界面友好，安装方便：`pip install glances`
 
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/09/img/glances-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/09/img/glances-show-min.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -143,17 +143,15 @@ ngrok http 8000
 
 18、[Learn-Algorithms](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nonstriater/Learn-Algorithms)：算法数据结构学习，C 语言实现
 
-19、[FromXToGo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/golang/go/wiki/FromXToGo)：（英文）如果你正从某个语言（PHP, Python, Ruby 等）想要换到 Golang 却又害怕吗？
-
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 开源书籍
-20、[the-way-to-go_ZH_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
+19、[the-way-to-go_ZH_CN](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Unknwon/the-way-to-go_ZH_CN)：《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-21、[machine-learning-for-software-engineers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
+20、[machine-learning-for-software-engineers](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ZuzooVn/machine-learning-for-software-engineers)：自上而下的学习路线，软件工程师的机器学习，[中文版](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 

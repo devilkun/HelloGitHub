@@ -1,7 +1,7 @@
 # 《HelloGitHub》第 36 期
 >兴趣是最好的老师，**HelloGitHub** 就是帮你找到兴趣！
 <p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
+    <img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/01/img/hello-github.jpg' style="max-width:100%;"></img>
 </p>
 
 ## 简介
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
+  <img src="https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/logo/weixin.png" style="max-width:30%;"></img><br>
 欢迎关注 HelloGitHub 公众号，获取更多开源项目的资料和内容。
 </p>
 
@@ -78,7 +78,7 @@ program -> {
 ### C++ 项目
 2、[calculator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Microsoft/calculator)：微软 Windows 系统预装的计算器工具开源了。该工具提供标准、科学、程序员计算器的功能，以及各种度量单位和货币之间的转换功能。实现语言为 C++ 代码并不复杂，快来看看微软工程师编写的代码吧！运行效果如下：
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/calculator.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/calculator.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -110,14 +110,14 @@ program -> {
 </table>
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/bootstrap-table.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/bootstrap-table.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
 5、[drone](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/drone/drone)：一个基于 Docker 的持续集成平台，使用 Go 语言编写
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/drone.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/drone.png' style="max-width:80%; max-height=80%;"></img></p>
 
 6、[etcd](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/etcd-io/etcd)：一个高可用的分布式键值数据库，k8s 全家桶标配的注册与发现服务。它采用 raft 一致性算法，基于 Go 语言实现。可以通过该项目了解、学习 raft 的实际应用场景
 ```
@@ -140,7 +140,7 @@ $ pprof -web [你的golang程序二进制文件] profile.pb.gz
 
 9、[AUXPI](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aimerforreimu/AUXPI)：基于 API 的简单图床应用。整合了主流图床的 API，并且做了一个 GUI 用来管理，[安装](https://github.com/aimerforreimu/AUXPI/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)简单
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/AUXPI.jpeg' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/AUXPI.jpeg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -160,7 +160,7 @@ Flowable.just(photos)
     .subscribe();
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/Luban.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/Luban.png' style="max-width:80%; max-height=80%;"></img></p>
 
 11、[yacy_search_server](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yacy/yacy_search_server)：一款采用了新的搜索方法的搜索引擎软件。 它不需要中央服务器，但它搜索的结果来自于独立的分布式网络。在这样的分布式网络中，没有任何一个实体可以决定列出的内容或结果出现的顺序。启动和关闭的方法：
 - GNU/Linux 系统，启动：`./startYACY.sh`、关闭：`./stopYACY.sh`
@@ -174,11 +174,11 @@ Flowable.just(photos)
 
 13、[ncform](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ncform/ncform)：只需要配置相关参数，便可方便生成表单的UI组件，自带校验规则满足日常 90% 的要求。表单是 Web 应用中常见的组件，但是开发表单是一个重体力活，ncform 通过配置便可生成表单，极大的提高了开发效率
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/ncform.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/ncform.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 14、[vscode-leetcode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/jdneo/vscode-leetcode)：这是一个可以让用户在 VS Code 编辑器中，练习 LeetCode 习题的插件。支持：查看高票解答、提交答案、测试答案等。提高了刷题效率，助你在校招、社招中杀出重围。上班摸鱼刷题利器
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/vscode-leetcode.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/vscode-leetcode.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 15、[griffith](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhihu/griffith)：让流式播放变得简单。无论你视频格式是 `mp4` 还是 `hls`，Griffith 都能使用媒体源拓展（MSE）来实现分段加载等功能，提供在线视频播放。示例代码：
 ```javascript
@@ -200,54 +200,54 @@ render(<Player sources={sources} />)
 
 16、[makegirlsmoe_web](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/makegirlsmoe/makegirlsmoe_web)：动漫角色图片生成工具。支持：选择发色、发型、眼睛、皮肤、微笑、风格等等特征生成二次元图片。自定义生成可爱的二次元头像，二次元界福音。[在线尝试](https://make.girls.moe/#/)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/makegirlsmoe_web.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/makegirlsmoe_web.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Objective-C 项目
 17、[BackgroundMusic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kyleneideck/BackgroundMusic)：macOS 音频工具，包含功能：自动暂停音乐、设置各个应用程序的音量、录制系统音频
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/BackgroundMusic.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/BackgroundMusic.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### PHP 项目
 18、[php-console](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/inhere/php-console)：使用简单，功能全面的 PHP 命令行应用库。提供控制台参数解析、命令运行、颜色风格输出、 用户信息交互等功能
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/php-console.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/php-console.png' style="max-width:80%; max-height=80%;"></img></p>
 
 19、[PasteMe](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LucienShui/PasteMe)：快速分享文本、代码的网站项目。支持加密、一键复制、永久保存、阅后即焚等功能。[在线示例](https://pasteme.cn/)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/PasteMe.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/PasteMe.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
 20、[ds-cheatsheets](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/FavioVazquez/ds-cheatsheets)：Python 在数据科学方面使用库的速查表，包含了 Pandas、Jupyter、SQL、Dask 等。虽然都是些基本的 API 调用，但是用来备忘和速查足以
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/ds-cheatsheets.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/ds-cheatsheets.png' style="max-width:80%; max-height=80%;"></img></p>
 
 21、[better-exceptions](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Qix-/better-exceptions)：更加友好、实用、漂亮的输出 Python 异常
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/better-exceptions.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/better-exceptions.png' style="max-width:80%; max-height=80%;"></img></p>
 
 22、[scrapydweb](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/my8100/scrapydweb)：Scrapy 爬虫管理平台，支持：Scrapyd 集群管理、日志可视化、定时任务、邮件通知、移动端 UI
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/scrapydweb.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/scrapydweb.png' style="max-width:80%; max-height=80%;"></img></p>
 
 23、[awesome-python-login-model](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CriseLYJ/awesome-python-login-model)：该项目收集了各大网站登陆方式和部分网站的爬虫程序。登陆方式实现包含 selenium 登录、通过抓包直接模拟登录等。有助于新手研究、编写爬虫
 
 24、[gita](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nosarthur/gita)：基于 Python 开发的管理 git 工具，使用后可在任何目录下代理执行 git 指令。同时支持同时显示多个 repo 的状态信息、本地分支与远程分支的关系等
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/gita.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/gita.png' style="max-width:80%; max-height=80%;"></img></p>
 
 25、[dash](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/plotly/dash)：一款只用几百行 Python 代码就可以轻易实现数据分析可视化的利器，是目前 Python 社区数据可视化主要的工具之一。具有：使用简单、易于扩展、开发团队活跃等特点
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/dash.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/dash.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 26、[pylane](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/NtesEyes/pylane)：一个基于 gdb 的 Python 进程注入和调试工具。通过 gdb trace Python 进程，然后在该进程的 Python vm 中动态地注入一段 Python 代码， 从而对一个运行中的 Python 进程执行一段任意的逻辑。更多 Python 调试经验，可阅读这篇[文章](https://mp.weixin.qq.com/s/Mlhrp2E390EMD0ZfSaNFKw)
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/pylane.gif' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/pylane.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -266,7 +266,7 @@ render(<Player sources={sources} />)
 ### Swift 项目
 28、[Bagel](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yagiz/Bagel)：一个小型、原生的 iOS 网络调试工具。使用过程不需要配置证书、代理之类的东西。只需要 iOS 设备和 Mac 处于同一网络，就可以查看、监控 App 的网络流量等信息
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/Bagel.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/Bagel.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -279,11 +279,11 @@ render(<Player sources={sources} />)
 
 32、[web-frameworks](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/the-benchmarker/web-frameworks)：该项目展示了不同编程语言的 Web 框架性能对比，持续更新。可以作为挑选 Web 框架的参照信息
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/web-frameworks.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/web-frameworks.png' style="max-width:80%; max-height=80%;"></img></p>
 
 33、[FiraCode](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tonsky/FiraCode)：高逼格的具有编程连字的等宽字体，最适合在编程编辑器、IDE、终端中使用。十分酷的字体，可以增加写代码的欲望
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/36/img/FiraCode.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://media.githubusercontent.com/media/521xueweihan/img/master/hellogithub/36/img/FiraCode.png' style="max-width:80%; max-height=80%;"></img></p>
 
 34、[ChromeAppHeroes](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhaoolee/ChromeAppHeroes)：优秀、实用的 Chrome 插件集合。该项目还包含插件的中文的使用介绍，为的是让好的插件被更多人发现和使用
 
